@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Hamza Koutar</h1>
 <h3 align="center">A 22-year-old student and full-stack developer, proficient in Laravel and React, from Morocco! 🎓💻</h3>
 <div style="display: flex; flex-direction: row; align-items: center;">
-    <img align="right" alt="coding" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400">
+    <img align="right" alt="coding" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="300">
     <ul style="list-style-type: none; padding: 0; margin: 0;">
         <li>🌱 I’m currently learning <strong>Laravel Express React Angular</strong></li>
         <li>💬 Ask me about <strong>backend development</strong></li>
