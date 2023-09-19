@@ -1,6 +1,7 @@
+
 <h1 align="center">Hi 👋, I'm Hamza Koutar</h1>
 <h3 align="center">A 22-year-old student and full-stack developer, proficient in Laravel and React, from Morocco! 🎓💻</h3>
-<img aligh="right" alt="coding" width : "400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" >
+<img align="right" alt="coding" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hkoutar7&label=Profile%20views&color=0e75b6&style=flat" alt="hkoutar7" /> </p>
 
