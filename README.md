@@ -1,15 +1,15 @@
 
 <h1 align="center">Hi 👋, I'm Hamza Koutar</h1>
 <h3 align="center">A 22-year-old student and full-stack developer, proficient in Laravel and React, from Morocco! 🎓💻</h3>
-<img align="right" alt="coding" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400">
-
-- 🌱 I’m currently learning **Laravel Express React Angular**
-
-- 💬 Ask me about **backend development**
-
-- 📫 How to reach me **hamzakoutarz@gmi.com**
-
-- ⚡ Fun fact **I don't read traditional books; I explore new worlds through anime.**
+<div style="display: flex; flex-direction: row; align-items: center;">
+    <img align="right" alt="coding" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400">
+    <ul style="list-style-type: none; padding: 0; margin: 0;">
+        <li>🌱 I’m currently learning <strong>Laravel Express React Angular</strong></li>
+        <li>💬 Ask me about <strong>backend development</strong></li>
+        <li>📫 How to reach me <strong>hamzakoutarz@gmi.com</strong></li>
+        <li>⚡ Fun fact <strong>I don't read traditional books; I explore new worlds through anime.</strong></li>
+    </ul>
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
