@@ -1,3 +1,8 @@
+
+![banner](https://github.com/hkoutar7/hkoutar7/assets/122703123/1edd4a21-b9cf-4f32-af85-79ccc5baf24e)
+
+
+
 <h1 align="center">Hi 👋, I'm Hamza Koutar</h1>
 <h3 align="center">A 22-year-old student and full-stack developer, proficient in Laravel and React, from Morocco! 🎓💻</h3>
 
