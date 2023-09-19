@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **backend development**
 
-- 📫 How to reach me **hamzakoutarz@gmi.com**
+- 📫 How to reach me **hamzakoutarz@gmail.com**
 
 - ⚡ Fun fact **I don't read traditional books; I explore new worlds through anime.**
 
