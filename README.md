@@ -4,13 +4,15 @@
 <div align="center">
   <img align="right" alt="coding" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400">
 
-  <div align="left" >
+
   - 🌱 I’m currently learning **Laravel Express React Angular**
   - 💬 Ask me about **backend development**
   - 📫 How to reach me **hamzakoutarz@gmi.com**
   - ⚡ Fun fact **I don't read traditional books; I explore new worlds through anime.**
-  </div>
+
 </div>
+
+<br> <br><br><br><br><br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
