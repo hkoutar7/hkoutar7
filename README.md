@@ -1,6 +1,5 @@
 
-![banner](https://github.com/hkoutar7/hkoutar7/assets/122703123/1edd4a21-b9cf-4f32-af85-79ccc5baf24e)
-
+![bannerj](https://github.com/hkoutar7/hkoutar7/assets/122703123/970c5ead-9ef5-4df5-b658-79f17ecc7f64)
 
 
 <h1 align="center">Hi 👋, I'm Hamza Koutar</h1>
